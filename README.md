@@ -7,3 +7,4 @@ hello
 #pinky+1
 
 +2
+-1
