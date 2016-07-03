@@ -1,4 +1,4 @@
-# git-hello-world user1 user2
+# git-hello-world user1 user2 wow
 
 hello
 
